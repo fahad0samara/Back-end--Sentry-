@@ -16,7 +16,7 @@ export default defineType({
       type: 'slug',
       options: {
         source: 'name',
-        maxLength: 96,
+        maxLength: 94,
       },
     }),
     defineField({
